@@ -1,4 +1,4 @@
-# awesome-selfhosted-data
+# awesome-selfhosted-dat
 
 This repository holds data used to generate https://awesome-selfhosted.net and https://github.com/awesome-selfhosted/awesome-selfhosted
 
